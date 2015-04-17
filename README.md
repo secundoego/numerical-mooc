@@ -1,3 +1,4 @@
+"Secundo Ego's Practical Numerical Methods with Python"
 #Practical Numerical Methods with Python
 
 A multi-campus, connected course (plus MOOC) on numerical methods for differential equations in science and engineering. Collaboratively developed by:
